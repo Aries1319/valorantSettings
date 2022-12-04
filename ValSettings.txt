@@ -1,6 +1,8 @@
 Sens: 0.285
 DPI: 2400
 
-Crouch: Alt
-
+Crosshair:
 0;s;1;P;c;2;u;000000FF;o;0.8;f;0;0l;4;0a;1;0f;0;1b;0;S;c;2
+
+Movement:
+Crouch: Alt, Space
